@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configurations>
+	<operation>enc</operation>
+	<algorithm>ShiftMultiply</algorithm>
+	<sourceDir></sourceDir>
+	<sourceFile>encryption\short-story.txt</sourceFile>
+	<keySourceFile></keySourceFile>
+	<destPath>encryption\encrypted_files</destPath>
+	<keyDestPath></keyDestPath>
+</configurations>

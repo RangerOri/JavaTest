@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configurations>
+	<operation>dec-dir</operation>
+	<algorithm>ShiftUp</algorithm>
+	<sourceDir>encryption\encrypted_files</sourceDir>
+	<sourceFile></sourceFile>
+	<keySourceFile></keySourceFile>
+	<destPath>encryption</destPath>
+	<keyDestPath></keyDestPath>
+</configurations>

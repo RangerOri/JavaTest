@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configurations>
+	<operation>enc-dir</operation>
+	<algorithm>ShiftUp</algorithm>
+	<sourceDir>encryption</sourceDir>
+	<sourceFile></sourceFile>
+	<keySourceFile></keySourceFile>
+	<destPath></destPath>
+	<keyDestPath></keyDestPath>
+</configurations>
